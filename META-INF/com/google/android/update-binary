@@ -436,4 +436,4 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
   cleanup;
 fi;
 
-ui_print " " " " "Thankyou for your Valuable Data!";
+ui_print " " " " "Thankyou for your Format Data!";

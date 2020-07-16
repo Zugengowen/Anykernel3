@@ -1,4 +1,4 @@
-NAME := NotKernel
+NAME := SilonT
 
 CODE := Lavender
 
